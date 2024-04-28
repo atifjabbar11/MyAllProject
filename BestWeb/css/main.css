@@ -1,0 +1,60 @@
+/* body{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+} */
+/* navigation bar style for css ----start---- */
+#logo{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 50% !important;
+}
+a.nav-link {
+    font-size:20px;
+    padding:10px 20px !important;
+}
+
+a.nav-link.active {
+    background:#000;
+    color:#fff !important
+}
+/* Add hover effect to navigation links */
+a.nav-link:hover {
+    background: #000 !important;
+    color: #fff !important;
+}
+/* Add hover effect to navigation links */
+nav#navbar {
+    padding:0PX
+}
+div#herociol {
+    padding:0px
+}
+#mostpopular{
+    background-color: #000;
+}
+/* navigation bar style for css ----end---- */
+/* hero section style for css ---start--- */
+#cadimg{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    
+}
+.btn1{
+    padding: 12px 22px; 
+    background-color: #000;
+    color: #fff;
+}
+#internetimg{
+    display: flex !important;
+    display: inline !important;
+}
+img#internetimg {
+    display:inline !important;
+    height:65px !important
+}
+h1.interpara {
+    display:inline;
+    text-transform:capitalize;
+}
